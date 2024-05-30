@@ -25,7 +25,6 @@ boundaryField
         type            fixedValue;
         value           uniform 0;
     }
-
     atmosphere
     {
         type            fixedValue;
@@ -41,6 +40,5 @@ boundaryField
         type            symmetry;
     }
 }
-
 
 // ************************************************************************* //
