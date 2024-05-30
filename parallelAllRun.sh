@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=validationRun2
+#SBATCH --job-name=glassTube_Run
 #SBATCH --time=40:00:00
 #SBATCH --ntasks=36
 #SBATCH --nodes=1
